@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\Klaudijus\Documents\Unity Projects\ColorDash\Assets\Standard Assets\UnityAds\Scripts\Advertisement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Adverts\CheckIfAdvertOn.cs" Line="22" Column="8" />
+      <File FileName="Assets\Scripts\Buttons\ToggleUI.cs" Line="6" Column="2" />
+      <File FileName="c:\Users\Klaudijus\Documents\Unity Projects\ColorDash\Assets\Standard Assets\UnityAds\Scripts\Advertisement.cs" Line="48" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

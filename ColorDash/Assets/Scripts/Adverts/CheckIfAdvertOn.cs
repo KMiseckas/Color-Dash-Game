@@ -12,7 +12,7 @@ public class CheckIfAdvertOn : MonoBehaviour
 		if (Advertisement.isSupported) 
 		{
 			Advertisement.allowPrecache = true;
-			Advertisement.Initialize ("27128",false);
+			Advertisement.Initialize ("000000",false);
 		} else 
 		{
 			Debug.Log("Platform not supported");
